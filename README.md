@@ -2,7 +2,7 @@
 # Hello, I'm Shrushti 
 
 ## About Me
-I am a software developer with a passion for cybersecurity, AI, and open-source projects.
+I am a Artificial Intelligence and Data Science student with a passion for cybersecurity and open-source projects.
 
 ## 🔧 Technologies & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
