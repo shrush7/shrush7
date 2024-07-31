@@ -1,5 +1,5 @@
-![Banner](https://imgur.com/unwwzmC)
-![Logo](https://imgur.com/o6UePGB)
+![Banner](https://imgur.com/unwwzmC.png)
+![Logo](https://imgur.com/o6UePGB.png)
 # Hello, I'm Shrushti 
 
 ## About Me
