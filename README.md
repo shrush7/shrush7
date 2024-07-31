@@ -1,5 +1,6 @@
-![Banner](https://imgur.com/6EhuBXn)
-![Logo](https://imgur.com/FcBnjfw) # Hello, I'm Shrushti 
+![Banner](https://imgur.com/unwwzmC)
+![Logo](https://imgur.com/o6UePGB)
+# Hello, I'm Shrushti 
 
 ## About Me
 I am a software developer with a passion for cybersecurity, AI, and open-source projects.
