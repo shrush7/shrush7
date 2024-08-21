@@ -18,9 +18,13 @@ I am a Artificial Intelligence and Data Science student with a passion for cyber
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 🚀 Projects
-- [CODSOFT](https://github.com/shrush7/CODSOFT) - codsoft internship
 - [qwertmachsec](https://github.com/shrush7/qwertmachsec) - my website
+- [insecure_xss](https://github.com/shrush7/insecure_xss) - A deliberately vulnerable web application with insecure XSS filters.
+- [Arbitary_code_execution](https://github.com/shrush7/Arbitary_code_execution) - A vulnerable web application that is susceptible to arbitrary command execution.
+- [exposed_phpinfo](https://github.com/shrush7/exposed_phpinfo) - A simple PHP web application with an exposed php.info page.
+- [PHP_web_shell](https://github.com/shrush7/PHP_web_shell) - A PHP backdoor accessible via your browser, that allows you to execute malicious commands on the compromised web server.
 - [nodekeylogger](https://github.com/shrush7/nodekeylogger) - simple linux node keylogger
+- [CODSOFT](https://github.com/shrush7/CODSOFT) - codsoft internship
 
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrushpatil1153)
