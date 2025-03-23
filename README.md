@@ -1,4 +1,3 @@
-![Banner](https://imgur.com/unwwzmC.png)
 # Hello, I'm Shrushti 
 
 ## About Me
